@@ -1,24 +1,7 @@
-Git OSX Installer
-=================
-=================
+Git O=
 
 https://gith
-Git GUI / gitk won't open - complain of missing Tcl / Tk Aqua libraries
------------------------------------------------------------------------
-
-If you don't already have Tcl/Tk Aqua installed on your computer (most
-MacOS X installs have it), you will get this error message. To resolve
-it, simply go to the website for Tcl / Tk Aqua and download the latest
-version:
-
-http://www.categorifiedcoder.info/tcltk/
-
-If you have an older version of Tcl / Tk Aqua, you'll benefit from
-upgrading.
-
-More information:
-
-http://code.google.com/p/git-osx-installer/issues/detail?id=41
+Git GUI / giller/issues/detail?id=41
 
 
 
